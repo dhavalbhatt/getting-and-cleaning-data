@@ -10,7 +10,9 @@ The dataset is summarized as follows:
 
 2. Subject is a code for each subject. There are 30 subjects in this study
 
-3. Below are the 66 Measurements summarizing the mean of each of the variables.
+3. Dataset contains average values of variables summarized by Activity and Subjects
+
+4. Below are the 66 variables present in the tidy dataset. 
   * `tBodyAccMeanX`
   * `tBodyAccMeanY`
   * `tBodyAccMeanZ`
