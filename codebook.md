@@ -4,7 +4,7 @@ This codebook describes the tidy dataset
 
 Data Summary
 ============
-The dataset is summarized by activity for each subject.
+The dataset is summarized as follows:
 1. Activity column identifies the 6 types of Activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 2. Subject is a code for each subject. There are 30 subjects in this study
 3. 66 Measurements summarizing the mean of each of the variables
