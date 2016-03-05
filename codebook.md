@@ -1,6 +1,11 @@
 # Codebook
 
 This codebook describes the tidy dataset
+Here is the raw data for the project:
+
+https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+
+Read the ReadMe.md file for more information on the project
 
 ## Data Summary
 ============
